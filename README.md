@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://sites.google.com/view/devixis/home](https://sites.google.com/view/devixis/home)
 
-- ⌚ Personal website coming soon! [dazzleq.eu](dazzleq.eu)
+- ⌚ Personal website coming soon! [https://dazzleq.eu](https://dazzleq.eu)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
