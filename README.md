@@ -17,6 +17,8 @@
 
 - 📄 Know about my experiences [https://sites.google.com/view/devixis/home](https://sites.google.com/view/devixis/home)
 
+- ⌚ Personal website coming soon! [dazzleq.eu](dazzleq.eu)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/doelmm_54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="doelmm_54" height="30" width="40" /></a>
@@ -32,9 +34,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/doelmm54"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="doelmm54" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doelmmwoel&show_icons=true&locale=en&layout=compact" alt="doelmmwoel" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doelmm54&show_icons=true&locale=en&layout=compact" alt="doelmmwoel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doelmmwoel&show_icons=true&locale=en" alt="doelmmwoel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doelmm54&show_icons=true&locale=en" alt="doelmmwoel" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doelmmwoel&" alt="doelmmwoel" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doelmm54&" alt="doelmmwoel" /></p>
 
