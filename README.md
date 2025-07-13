@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Doelmm</h1>
-<h3 align="center">Young programmer from Lithuania, specializing in PCB design, content creation, and pentesting. Explore my world of code, innovative electronics, and cybersecurity insights.</h3>
+<h1 align="center">Sup 👋, I'm Doelmm</h1>
+<h3 align="center">Young Russo-Lithuanian programmer, specializing in PCB design, content creation, and pentesting. Explore my world of code, innovative electronics, and cybersecurity insights.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doelmmwoel&label=Profile%20views&color=0e75b6&style=flat" alt="doelmmwoel" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://sites.google.com/view/dazzleq/home](https://sites.google.com/view/dazzleq/home)
 
-- 💬 Ask me about **Flipper Zero,**
+- 💬 Ask me about **Flipper Zero, After Effects **
 
 - 📫 How to reach me **doelmm54@proton.me**
 
