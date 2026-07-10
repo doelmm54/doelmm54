@@ -112,14 +112,6 @@
 - 💻 **Programming & PCB design:** Learned from my father.  
 - 🎞️ **Video editing:** Loved anime and wanted to create something unique and my own.
 
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://ko-fi.com/doelmm54">
-    <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Support Doelmm" />
-  </a>
-</p>
-<br><br>
-
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doelmm54&show_icons=true&locale=en&layout=compact" alt="Top languages" />
 </p>
