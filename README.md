@@ -1,25 +1,15 @@
 <h1 align="center">Sup 👋, I'm Doelmm</h1>
 
 <h3 align="center">
-  Young Russo-Lithuanian programmer specializing in PCB design, content creation, pentesting, and photography.  
+  Young programmer specializing in PCB design, content creation, pentesting, and photography.  
   Explore my world of code, innovative electronics, cybersecurity insights, and photography.
 </h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=doelmmwoel&label=Profile%20views&color=0e75b6&style=flat" alt="doelmmwoel" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=doelmmwoel" alt="doelmmwoel" />
-  </a>
-</p>
 
 - 🌱 I’m currently learning **Bash, Swift, Python**  
 - 👨‍💻 All of my projects are available at [my portfolio](https://sites.google.com/view/dazzleq/home)  
 - 📝 I rarely write articles, but when I do, you can find them [here](https://sites.google.com/view/dazzleq/home)  
 - 💬 Ask me about **Flipper Zero, After Effects, Photography, and PC building/diagnostics**  
-- 📫 Reach me at **doelmm54@proton.me** or **doelmm@dazzleq.eu**  
+- 📫 Reach me at **doelmm@dazzleq.eu**  
 - 📄 Learn about my experiences [here](https://sites.google.com/view/devixis/home)  
 - ⌚ Personal website coming soon! [dazzleq.eu](https://dazzleq.eu)
 
